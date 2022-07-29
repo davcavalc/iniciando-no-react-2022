@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.neumorph {
+  border-radius: 50px;
+  background: linear-gradient(145deg, #dddddd, #ffffff);
+  box-shadow: 20px 20px 60px #d0d0d0, -20px -20px 60px #ffffff;
+}
